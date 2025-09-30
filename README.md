@@ -55,16 +55,18 @@ O objetivo é aplicar conceitos de **Programação Orientada a Objetos (POO)** e
 ```
 Quantos agendamentos deseja cadastrar? 1
 
---- Novo Agendamento ---
-Nome do cliente: Ana
-Telefone: 99999-1111
-Descrição do serviço: Corte de cabelo
-Preço do serviço: 50
-Data e hora do agendamento (ex: 2025-08-27 14:00): 2025-09-20 10:00
-✅ Agendamento cadastrado com sucesso!
+--- NOVO AGENDAMENTO ---
+Nome do cliente: > João
+Telefone: > 99999-1234
+Descrição do serviço: > Corte de cabelo
+Preço do serviço: R$> 50
+Data e hora do agendamento (ex: 29/09 20:00): > 29/09 20:00
+Seu agendamento foi cadastrado com sucesso!
 
-📅 Agendamentos:
-Ana - Corte de cabelo - 2025-09-20 10:00
+Deseja cadastrar outro agendamento? (s/n): > n
+
+Agendamentos:
+Ana - Corte de cabelo - 20/09 10:00
 ```
 
 ---
